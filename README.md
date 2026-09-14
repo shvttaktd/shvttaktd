@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=shvtt&style=for-the-badge&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=shvttaktd&style=for-the-badge&color=lightgrey)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8B8B8&background=FFFFFF00&width=435&lines=Hi+there!)](https://t.me/shvtt)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8B8B8&background=FFFFFF00&width=435&lines=Hi+there!)]()
 
 <!--## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,8 +19,7 @@
 
 
 ## <img src="https://cdn.simpleicons.org/internetcomputer/ffffff" width="15"/> Socials
-[![Telegram](https://img.shields.io/badge/telegram-gray?style=for-the-badge&logo=telegram&logoColor=%23ffffff&logoSize=auto)](https://t.me/shvtt)
-[![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:shvttq@gmail.com)
+[![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:ashatalov@aktd.email)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shvtt/shvtt/output/github-snake-dark.svg" />
